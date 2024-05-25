@@ -6,5 +6,5 @@ To achieve the non-recursiveness, a stack data structure is also implemented and
 
 ## Features
 - Non-recursive implementation of the Quick Sort algorithm
-- Custom stack data structure implemented with doubly linked list to handle sub-array boundaries
+- Custom stack data structure to handle sub-array boundaries
 - Efficient sorting of integer arrays
